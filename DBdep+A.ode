@@ -42,7 +42,6 @@ global 1 v+24.99 {period=y}
 
 # auxilary functions
 aux phase=tf/per
-aux v=v
 aux window=Heav(vf-vha) - Heav(vf-vma-k)
 #ma=mainf(V)
 v1=-1.2
